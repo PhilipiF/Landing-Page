@@ -55,3 +55,41 @@ Características principais:
 ---
 
 ## 📂 Estrutura
+
+📁 projeto/
+├── index.html
+└── style.css
+
+---
+
+## 🎨 Design System
+
+- Uso de variáveis CSS (`:root`)
+- Gradientes dinâmicos
+- Efeitos de foco e hover
+- Glassmorphism no card de formulário
+- Animações com `@keyframes`
+
+---
+
+## 📱 Responsividade
+
+Compatível com:
+
+- Desktop
+- Smartphone
+- Tablets
+ 
+---
+
+## 🚀 Como Usar
+
+```bash
+git clone https://github.com/seu-usuario/seu-repositorio.git
+cd seu-repositorio
+```
+---
+
+## 👨‍💻 Autor
+
+Philipi Ferreira.
