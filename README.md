@@ -16,7 +16,7 @@
 ## 📸 Preview
 
 <p align="center">
-  <img src="https://via.placeholder.com/900x450.png?text=Landing+Page+Preview" alt="preview"/>
+  <img src="https://github.com/PhilipiF/Landing-Page---Newsletter/blob/main/ezgif-719a7687d4fa7639.gif" alt="preview"/>
 </p>
 
 ---
