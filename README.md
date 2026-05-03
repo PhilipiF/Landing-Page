@@ -19,8 +19,6 @@
   <img src="https://via.placeholder.com/900x450.png?text=Landing+Page+Preview" alt="preview"/>
 </p>
 
-> 💡 Dica: substitua essa imagem por um print real ou GIF do seu projeto.
-
 ---
 
 ## 📌 Sobre o Projeto
