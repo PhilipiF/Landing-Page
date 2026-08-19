@@ -43,8 +43,7 @@ Características principais:
 
 ## 🎯 Funcionalidades
 
-- ✔️ Campos obrigatórios com validação nativa  
-- ✔️ Validação de email integrada  
+- ✔️ Campos obrigatórios com validação nativa   
 - ✔️ Feedback visual de erro  
 - ✔️ Layout responsivo  
 - ✔️ Animações suaves  
@@ -56,6 +55,7 @@ Características principais:
 
 📁 projeto/
 ├── index.html
+
 └── style.css
 
 ---
