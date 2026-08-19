@@ -82,7 +82,7 @@ Compatível com:
 ## 🚀 Como Usar
 
 ```bash
-git clone https://github.com/PhilipiF/Landing-Page---Newsletter.git
+git clone https://github.com/PhilipiF/Landing-Page.git
 cd Landing-Page---Newsletter
 ```
 ---
