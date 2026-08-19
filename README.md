@@ -55,7 +55,6 @@ Características principais:
 
 📁 projeto/
 ├── index.html
-
 └── style.css
 
 ---
